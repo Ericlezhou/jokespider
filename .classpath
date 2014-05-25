@@ -2,12 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/commons-logging.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/org.apache.httpcomponents.httpclient_4.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/filterbuilder.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/htmllexer.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/htmlparser.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/sitecapturer.jar"/>
-	<classpathentry kind="lib" path="C:/Users/LabZL/workspace/jokespider/thumbelina.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/org.apache.httpcomponents.httpclient_4.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/htmllexer.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/htmlparser.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="D:/Javademo/workspace/jokespider/thumbelina.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
